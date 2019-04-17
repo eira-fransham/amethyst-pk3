@@ -17,7 +17,6 @@ podio = "0.1"
 bzip2 = { version = "0.3", optional = true }
 libflate = { version = ">=0.1.21", optional = true }
 qptrie = { path = "rust-qptrie" }
-unicase = { path = "unicase" }
 crc32fast = "1.0"
 
 [dev-dependencies]
