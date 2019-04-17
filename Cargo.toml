@@ -1,0 +1,9 @@
+[package]
+name = "amethyst-pk3"
+version = "0.1.0"
+authors = ["Jef <jackefransham@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+amethyst = { path = "../amethyst/" }
+zip = { path = "zip-rs" }
