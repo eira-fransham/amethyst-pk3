@@ -5,5 +5,5 @@ authors = ["Jef <jackefransham@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-amethyst = { path = "../amethyst/" }
+amethyst = { git = "https://github.com/Vurich/amethyst.git" }
 zip = { path = "zip-rs" }
